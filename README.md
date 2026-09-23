@@ -11,3 +11,4 @@ A modern, scalable, and developer-friendly component library built to accelerate
 *   **Lightweight & Performant** – Optimized for minimal bundle size and smooth runtime performance.
 *   **Consistent Design** – Ensures a unified look and feel across applications and teams.
 *   **Extensible Architecture** – Designed to scale with growing products and evolving design systems.
+* **
